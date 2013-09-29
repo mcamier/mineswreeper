@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent xmlns:Generic="System.Collections.Generic">
+  <Asset Type="Generic:List[GameData.Speaker]">
+    <Item>
+      <avatarIndex>0</avatarIndex>
+      <message>Mmmmmmhhh...</message>
+    </Item>
+
+    <Item>
+      <avatarIndex>0</avatarIndex>
+      <message>Vous voila mort, il faut croire que vous n'avez pas encore les capacites pour mener a bien cet entrainement</message>
+    </Item>
+
+    <Item>
+      <avatarIndex>0</avatarIndex>
+      <message>Voulez-vous le recommencer ?</message>
+    </Item>
+  </Asset>
+</XnaContent>

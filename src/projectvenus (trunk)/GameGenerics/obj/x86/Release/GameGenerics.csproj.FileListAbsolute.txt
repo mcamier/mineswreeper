@@ -1,0 +1,12 @@
+C:\Users\Mickael\Documents\Visual Studio 2010\Projects\MenuManagementLearning\GameGenerics\bin\x86\Release\GameGenerics.dll
+C:\Users\Mickael\Documents\Visual Studio 2010\Projects\MenuManagementLearning\GameGenerics\bin\x86\Release\GameGenerics.pdb
+C:\Users\Mickael\Documents\Visual Studio 2010\Projects\MenuManagementLearning\GameGenerics\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Mickael\Documents\Visual Studio 2010\Projects\MenuManagementLearning\GameGenerics\obj\x86\Release\GameGenerics.dll
+C:\Users\Mickael\Documents\Visual Studio 2010\Projects\MenuManagementLearning\GameGenerics\obj\x86\Release\GameGenerics.pdb
+C:\Users\Mickael\Documents\Visual Studio 2010\Projects\MenuManagementLearning\GameGenerics\obj\x86\Release\GameGenerics.csprojResolveAssemblyReference.cache
+C:\Users\Mickael\Documents\Visual Studio 2010\Projects\ProjektVenus\GameGenerics\bin\x86\Release\GameGenerics.dll
+C:\Users\Mickael\Documents\Visual Studio 2010\Projects\ProjektVenus\GameGenerics\bin\x86\Release\GameGenerics.pdb
+C:\Users\Mickael\Documents\Visual Studio 2010\Projects\ProjektVenus\GameGenerics\obj\x86\Release\GameGenerics.csprojResolveAssemblyReference.cache
+C:\Users\Mickael\Documents\Visual Studio 2010\Projects\ProjektVenus\GameGenerics\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Mickael\Documents\Visual Studio 2010\Projects\ProjektVenus\GameGenerics\obj\x86\Release\GameGenerics.dll
+C:\Users\Mickael\Documents\Visual Studio 2010\Projects\ProjektVenus\GameGenerics\obj\x86\Release\GameGenerics.pdb

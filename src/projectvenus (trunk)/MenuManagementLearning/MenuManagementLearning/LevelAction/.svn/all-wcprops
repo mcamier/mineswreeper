@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/projectvenus/!svn/ver/4/trunk/MenuManagementLearning/MenuManagementLearning/LevelAction
+END
+LevelActionBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/projectvenus/!svn/ver/4/trunk/MenuManagementLearning/MenuManagementLearning/LevelAction/LevelActionBase.cs
+END
+WaitAction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/projectvenus/!svn/ver/4/trunk/MenuManagementLearning/MenuManagementLearning/LevelAction/WaitAction.cs
+END
+ChangeBackgroundAction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/projectvenus/!svn/ver/4/trunk/MenuManagementLearning/MenuManagementLearning/LevelAction/ChangeBackgroundAction.cs
+END
+EnemyVagueAction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/projectvenus/!svn/ver/4/trunk/MenuManagementLearning/MenuManagementLearning/LevelAction/EnemyVagueAction.cs
+END
+ChangeMusicAction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/projectvenus/!svn/ver/4/trunk/MenuManagementLearning/MenuManagementLearning/LevelAction/ChangeMusicAction.cs
+END
+ChangeDifficultyAction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/projectvenus/!svn/ver/4/trunk/MenuManagementLearning/MenuManagementLearning/LevelAction/ChangeDifficultyAction.cs
+END
+Level.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/projectvenus/!svn/ver/4/trunk/MenuManagementLearning/MenuManagementLearning/LevelAction/Level.cs
+END
+ConversationAction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/projectvenus/!svn/ver/4/trunk/MenuManagementLearning/MenuManagementLearning/LevelAction/ConversationAction.cs
+END

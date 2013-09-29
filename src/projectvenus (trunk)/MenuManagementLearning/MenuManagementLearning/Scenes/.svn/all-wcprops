@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/projectvenus/!svn/ver/4/trunk/MenuManagementLearning/MenuManagementLearning/Scenes
+END
+PauseGameMenu.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/projectvenus/!svn/ver/4/trunk/MenuManagementLearning/MenuManagementLearning/Scenes/PauseGameMenu.cs
+END
+BackgroundScene.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/projectvenus/!svn/ver/4/trunk/MenuManagementLearning/MenuManagementLearning/Scenes/BackgroundScene.cs
+END
+CampaignScene.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/projectvenus/!svn/ver/4/trunk/MenuManagementLearning/MenuManagementLearning/Scenes/CampaignScene.cs
+END
+GameplayScene.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/projectvenus/!svn/ver/4/trunk/MenuManagementLearning/MenuManagementLearning/Scenes/GameplayScene.cs
+END
+LogoScene.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/projectvenus/!svn/ver/4/trunk/MenuManagementLearning/MenuManagementLearning/Scenes/LogoScene.cs
+END
+GameScene.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/projectvenus/!svn/ver/4/trunk/MenuManagementLearning/MenuManagementLearning/Scenes/GameScene.cs
+END
+MainMenuScene.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/projectvenus/!svn/ver/4/trunk/MenuManagementLearning/MenuManagementLearning/Scenes/MainMenuScene.cs
+END
+CreditScene.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/projectvenus/!svn/ver/4/trunk/MenuManagementLearning/MenuManagementLearning/Scenes/CreditScene.cs
+END
+SplashscreenScene.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/projectvenus/!svn/ver/4/trunk/MenuManagementLearning/MenuManagementLearning/Scenes/SplashscreenScene.cs
+END

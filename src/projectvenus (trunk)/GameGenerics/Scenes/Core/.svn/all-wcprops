@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/projectvenus/!svn/ver/4/trunk/GameGenerics/Scenes/Core
+END
+AbstractGameScene.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/projectvenus/!svn/ver/4/trunk/GameGenerics/Scenes/Core/AbstractGameScene.cs
+END
+GraphicMenuItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/projectvenus/!svn/ver/4/trunk/GameGenerics/Scenes/Core/GraphicMenuItem.cs
+END
+MenuItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/projectvenus/!svn/ver/4/trunk/GameGenerics/Scenes/Core/MenuItem.cs
+END
+AbstractMenuScene.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/projectvenus/!svn/ver/4/trunk/GameGenerics/Scenes/Core/AbstractMenuScene.cs
+END
+AbstractMenuItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/projectvenus/!svn/ver/4/trunk/GameGenerics/Scenes/Core/AbstractMenuItem.cs
+END
+SceneManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/projectvenus/!svn/ver/4/trunk/GameGenerics/Scenes/Core/SceneManager.cs
+END
+TextMenuItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/projectvenus/!svn/ver/4/trunk/GameGenerics/Scenes/Core/TextMenuItem.cs
+END

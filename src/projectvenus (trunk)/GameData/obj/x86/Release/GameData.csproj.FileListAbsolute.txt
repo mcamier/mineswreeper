@@ -1,0 +1,12 @@
+C:\Users\Mickael\Documents\Visual Studio 2010\Projects\MenuManagementLearning\GameData\bin\x86\Release\GameData.dll
+C:\Users\Mickael\Documents\Visual Studio 2010\Projects\MenuManagementLearning\GameData\bin\x86\Release\GameData.pdb
+C:\Users\Mickael\Documents\Visual Studio 2010\Projects\MenuManagementLearning\GameData\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Mickael\Documents\Visual Studio 2010\Projects\MenuManagementLearning\GameData\obj\x86\Release\GameData.dll
+C:\Users\Mickael\Documents\Visual Studio 2010\Projects\MenuManagementLearning\GameData\obj\x86\Release\GameData.pdb
+C:\Users\Mickael\Documents\Visual Studio 2010\Projects\MenuManagementLearning\GameData\obj\x86\Release\GameData.csprojResolveAssemblyReference.cache
+C:\Users\Mickael\Documents\Visual Studio 2010\Projects\ProjektVenus\GameData\bin\x86\Release\GameData.dll
+C:\Users\Mickael\Documents\Visual Studio 2010\Projects\ProjektVenus\GameData\bin\x86\Release\GameData.pdb
+C:\Users\Mickael\Documents\Visual Studio 2010\Projects\ProjektVenus\GameData\obj\x86\Release\GameData.csprojResolveAssemblyReference.cache
+C:\Users\Mickael\Documents\Visual Studio 2010\Projects\ProjektVenus\GameData\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Mickael\Documents\Visual Studio 2010\Projects\ProjektVenus\GameData\obj\x86\Release\GameData.dll
+C:\Users\Mickael\Documents\Visual Studio 2010\Projects\ProjektVenus\GameData\obj\x86\Release\GameData.pdb

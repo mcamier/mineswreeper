@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent xmlns:Generic="System.Collections.Generic">
+  <Asset Type="Generic:List[GameData.Speaker]">
+    <Item>
+      <avatarIndex>0</avatarIndex>
+      <message>
+      Je t'aime mon coeur </message>
+    </Item>
+
+    <Item>
+      <avatarIndex>0</avatarIndex>
+      <message>Bonjour Soldat, je remplace ton superieur aujourd'hui. Prepare toi pour l'entrainement !</message>
+    </Item>
+
+    <Item>
+      <avatarIndex>1</avatarIndex>
+      <message>Pret, Baron !!!</message>
+
+    </Item>
+
+    <Item>
+      <avatarIndex>0</avatarIndex>
+      <message>Tres bien soldat, cet entrainement est de mon cru, plus vous survrivrez longtemps, plus les ennemis seront coriaces, nombreux et puissants. Montrez moi ce que vous avez dans le ventre et bouclez cette mission virtuel !</message>
+    </Item>
+
+    <Item>
+      <avatarIndex>1</avatarIndex>
+      <message>Chef, Oui chef !</message>
+    </Item>
+
+    <Item>
+      <avatarIndex>0</avatarIndex>
+      <message>Ah oui, un dernier detail, si vous parvenez au bout de la mission...Une...surprise vous attends.</message>
+    </Item>
+
+    <Item>
+      <avatarIndex>1</avatarIndex>
+      <message>???</message>
+    </Item>
+  </Asset>
+</XnaContent>
